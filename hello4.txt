@@ -1,0 +1,2 @@
+hi this is git rm --cached fil
+this is edited file after cachinge
