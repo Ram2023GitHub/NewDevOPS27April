@@ -1,2 +1,3 @@
 hi this is git rm --cached fil
-this is edited file after cachinge
+this is edited file after caching
+This is edited to test revert git command.
